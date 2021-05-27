@@ -1,0 +1,33 @@
+body{
+    max-width: 1250;
+    background-color: black;
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+#container{
+
+    
+    border-style: solid;
+    display: inline-block;
+    width: 60%;
+    border-color: #292929;
+    border-width: 3px;
+    padding: 20px;
+    border-radius: 8px;
+}
+.cells{
+     
+        background-color: rgb(14 14 14);
+        display: inline-block;
+        width: 12.1%;
+        min-height: 64px;
+        text-align: center;
+        padding-top: 32px;
+        font-size: larger;
+        font-weight: bold;
+        border-style: solid;
+        border-color: rgb(14 14 14);
+        border-radius: 8px;
+        margin: 3px;
+}
